@@ -1,5 +1,7 @@
 # Modelling Consciousness
 
+![Modelling Conciousness Cover Photo](./cover-photo.png.png)
+
 ## Introduction
 
 The question of consciousness—what it is, how it emerges, and where it resides—has long been regarded as one of the most elusive and fundamental challenges of philosophy, cognitive science, and artificial intelligence. A prevailing sentiment among both philosophers and laypeople is that consciousness is inherently ineffable—a phenomenon beyond formal definition or objective measure. This perception arises primarily from the subjective nature of experience: the so-called “hard problem” of consciousness as posed by David Chalmers, which distinguishes the existence of internal experiences (qualia) from observable behaviors or computational processes.
