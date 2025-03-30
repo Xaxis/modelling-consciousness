@@ -1,6 +1,6 @@
 # Modelling Consciousness
 
-![Modelling Conciousness Cover Photo](./cover-photo.png.png)
+![Modelling Conciousness Cover Photo](./cover-photo.png)
 
 ## Introduction
 
