@@ -1,3 +1,10 @@
+---
+title: "Modelling Consciousness"
+description: "The question of consciousness—what it is, how it emerges, and where it resides."
+pubDate: 2025-03-29
+tags: ["conciousness", "intelligence", "philosophy"]
+---
+
 # Modelling Consciousness
 
 ![Modelling Conciousness Cover Photo](./cover-photo.png)
